@@ -48,7 +48,7 @@ Gmail and enable.
 
 4. Select what kind of application this is for, and give it a memorable name.
 Fill out all necessary information for the credential (e.g., if choosing 
-"Web Application" make sure to add an Authorized Redirect URI (http:localhost:8080/). See 
+"Web Application" make sure to add an Authorized Redirect URI (http:localhost:8080/) In Vscode forward system 8080 port to localhost 8080. See 
 https://developers.google.com/identity/protocols/oauth2 for more infomation).
 
 5. Back on the credentials screen, click the download icon next to the 
