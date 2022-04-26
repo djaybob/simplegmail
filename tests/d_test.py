@@ -2,7 +2,7 @@ from simplegmail import Gmail
 from numpy import random
 import random
 import datetime
-from time import sleep
+import time
 
 begin_time = datetime.datetime.now()
 
